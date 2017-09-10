@@ -1,6 +1,6 @@
 ---
 layout: post
-category: media
+category: talk
 title: News, Talks and Interviews
 date: 2015-09-25
 ---

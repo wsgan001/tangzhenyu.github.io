@@ -8,11 +8,12 @@ keywords: Links
 <div class="article">
     <h3 class="title">{{ page.title }}</h3>
     <div class="links">
-        {% for i in site.customLinks %}
+        {% for i in site.publications %}
         <h4 class="links-category fn-clear">{{ i.message }}</h4>
         <ul class="links-list fn-clear">
                 {% for link in i.item %}
-                <li><a href="{{ link.url }}" target="_blank">{{ link.text }}</a></li>
+				<!--<li><a href="{{ link.title }}" target="_blank">{{ link.text }}</a></li>-->
+				<strong><a target="_blank" rel="noopener noreferrer">"{{ link.title }}"</a></strong></em>{{link.place}} </em> <strong>{{link.year}}</strong>
                 {% endfor %}
         </ul>
         {% endfor %}

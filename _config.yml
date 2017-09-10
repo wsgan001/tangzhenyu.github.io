@@ -59,6 +59,8 @@ nav:
     url: /archives.html
   - text: LINKS
     url: /links.html
+  - text: PUBLICATIONS
+    url: /publications.html
   - text: SEARCH
     url: /search.html
   - text: ABOUT ME
@@ -105,19 +107,32 @@ customLinks:
       url: http://weibo.com/fly51fly
     message: Resources
 
+#publications:
+publications:
+  - item:
+    - title: Nonlinear Phenomena of the Langmuir Waves in a Plasm
+      year: 2017
+      place: CNLS
+    message: Publication
+  - item:
+    - title: Nonlinear Phenomena of the Langmuir Waves in a Plasm
+      year: 2017
+      place: CNLS
+    message: Slides
+
 googleAnaly:
   config: false
   id: UA-58146229-1
 
 #baidu tongji
-baiduTongji:
-  config: true
-  id:  9144251ce5a4f4019de4bc601b9b490b
+#baiduTongji:
+#  config: true
+#  id:  9144251ce5a4f4019de4bc601b9b490b
 
 #comment config
 disqus:
   config: true
-  id: handong1587
+  id: Zhen-Yu Tang
 
 duoshuo:
   config: false

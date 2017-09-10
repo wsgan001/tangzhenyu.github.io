@@ -131,7 +131,7 @@ googleAnaly:
 
 #comment config
 disqus:
-  config: true
+  config: false
   id: Zhen-Yu Tang
 
 duoshuo:

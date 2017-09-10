@@ -61,8 +61,8 @@ nav:
     url: /links.html
   - text: PUBLICATIONS
     url: /publications.html
-  - text: SEARCH
-    url: /search.html
+  #- text: SEARCH
+  #  url: /search.html
   - text: ABOUT ME
     url: /about.html
 

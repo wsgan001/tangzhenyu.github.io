@@ -2,7 +2,7 @@
 layout: post
 category: mathematics
 title: Resources
-date: 2016-02-24
+date: 2015-09-11
 ---
 
 **Packings of Regular Pentagons in the Plane**

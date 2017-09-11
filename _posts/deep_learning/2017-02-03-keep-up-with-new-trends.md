@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Keep Up With New Trends
-date: 2017-07-08
+date: 2017-02-03
 ---
 
 # ILSVRC 2017

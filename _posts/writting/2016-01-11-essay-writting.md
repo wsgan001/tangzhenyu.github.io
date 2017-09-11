@@ -1,8 +1,8 @@
 ---
 layout: post
-category: study
+category: writting
 title: Essay Writting
-date: 2016-01-11
+date: 2016-01-15
 ---
 
 # Courses

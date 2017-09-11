@@ -2,7 +2,7 @@
 layout: post
 category: talk
 title: News, Talks and Interviews
-date: 2015-09-25
+date: 2015-04-11
 ---
 
 # Deep Learning

@@ -1,8 +1,8 @@
 ---
 layout: post
-category: computer_science
+category: writting
 title: Writting CS Papers
-date: 2015-11-30
+date: 2014-07-30
 ---
 
 # Blog

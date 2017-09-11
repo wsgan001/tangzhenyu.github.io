@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Acceleration and Model Compression
-date: 2015-10-09
+date: 2015-06-02
 ---
 
 # Papers

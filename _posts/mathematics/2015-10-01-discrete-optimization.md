@@ -1,6 +1,6 @@
 ---
 layout: post
-category: computer_science
+category: mathematics
 title: Discrete Optimization Resources
 date: 2015-10-01
 ---

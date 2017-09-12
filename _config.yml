@@ -57,8 +57,8 @@ nav:
     url: /categories.html
   - text: ARCHIVES
     url: /archives.html
-  - text: LINKS
-    url: /links.html
+  #- text: LINKS
+  #  url: /links.html
   - text: PUBLICATIONS
     url: /publications.html
   #- text: SEARCH
@@ -71,7 +71,7 @@ author:
     name: Zhen-Yu Tang
     email: tangzhenyu1990@gmail.com
     imageLink: /images/avatar.jpg
-    simpleIntro: Hello world~
+    simpleIntro: Fitting world using deep learning
     detailIntro:
       <p>I am working as machine learning/deep learning engineer,in the field of nature language processing,computer vision,slam.</p>
       <p>This blog is used to organise interesting papers, projects, websites, blogs and my paper notes.</p>

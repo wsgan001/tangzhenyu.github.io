@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
+		
+		<!-- full text search in site-->
+		<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
+		<script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
+		<script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
         <meta charset="utf-8">
         <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
         <!-- meta -->
@@ -167,7 +173,7 @@
         <!-- Search in CSE home -->
         <script>
         (function() {
-            var cx = '003287793477459687163:n59nxpgejxy';
+            var cx = '005172843397642166538:srrzpepsgtc';
             var gcse = document.createElement('script');
             gcse.type = 'text/javascript';
             gcse.async = true;
@@ -187,6 +193,25 @@
         $(document).ready(function() {
             $('#toc').toc({ showEffect: 'slideDown' });
         }); </script>
+	
+		<!-- full text search in site-->
+		<div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;
+			    opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
+				    <input type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="article title > date tag" >
+
+				    <div style="position: fixed; top: 16px; right: 16px;">
+					        <img src="/search/img/cb-close.png"  id="cb-close-btn"/>
+				    </div>
+		</div>
+
+		<div style="position: fixed; right: 16px; bottom: 20px;">
+				    <img src="/search/img/cb-search.png"  id="cb-search-btn"  title="双击ctrl试一下"/>
+		</div>
+
+	<link rel="stylesheet" href="{{ "/search/css/cb-search.css" | prepend: site.baseurl }}">
+
+	<script src="{{ "/search/js/bootstrap3-typeahead.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/search/js/cb-search.js" | prepend: site.baseurl }}"></script>
 
     </body>
 </html>

@@ -3,40 +3,62 @@ layout: default
 comment: true
 keywords: Deep Learning, Machine Learning
 ---
+
+<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
 <div class="article article-post">
-    <h2 class="title">{{ page.title }}</h2>
-    <div class="info">
-        <span class="info-title"><i class="icon-calendar"></i> Published: </span>
-        <span class="info-date">{{ page.date | date_to_string }}</span>
-        <span class="info-title"><i class="icon-folder-open"></i> Category: </span>
-        <span class="info-link"><a href="{{ site.url }}/categories.html#{{ page.category }}-ref" >{{ page.category }}</a></span>
-    </div>
-    <div id="toc"></div>
-    {{ content }}
-    <div class="bdsharebuttonbox">
-        <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
-        <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
-        <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
-        <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
-        <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
-        <a href="#" class="bds_mail" data-cmd="mail" title="分享到邮件分享"></a>
-        <a href="#" class="bds_more" data-cmd="more"></a>
-    </div>
-    <nav class="article-previous fn-clear">
-        {% if page.previous %}
-        <a class="prev" href="{{ page.previous.url }}" rel="bookmark">&laquo;&nbsp;{{ page.previous.title | truncatewords:5 }}</a>
-        {% endif %}
-        {% if page.next %}
-        <a class="next" href="{{ page.next.url }}" rel="bookmark">{{ page.next.title | truncatewords:5 }}&nbsp;&raquo;</a>
-        {% endif %}
-    </nav>
-    <div class="comment">
-        {% if site.disqus.config %}
-        <div id="disqus_thread"></div>
-        {% else %}
-            {% if site.duoshuo.config %}
-            <div class="ds-thread" data-thread-key="{{ page.title }}"></div>
-            {% endif %}
-        {% endif %}
-    </div>
+	<h2 class="title">{{ page.title }}</h2>
+	<div class="info">
+		<span class="info-title"><i class="icon-calendar"></i> Published: </span>
+		<span class="info-date">{{ page.date | date_to_string }}</span>
+		<span class="info-title"><i class="icon-folder-open"></i> Category: </span>
+		<span class="info-link"><a href="{{ site.url }}/categories.html#{{ page.category }}-ref" >{{ page.category }}</a></span>
+	</div>
+	<div id="toc"></div>
+	{{ content }}
+	<div class="bdsharebuttonbox">
+		<a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+		<a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+		<a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+		<a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+		<a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a>
+		<a href="#" class="bds_mail" data-cmd="mail" title="分享到邮件分享"></a>
+		<a href="#" class="bds_more" data-cmd="more"></a>
+	</div>
+	<nav class="article-previous fn-clear">
+		{% if page.previous %}
+		<a class="prev" href="{{ page.previous.url }}" rel="bookmark">&laquo;&nbsp;{{ page.previous.title | truncatewords:5 }}</a>
+		{% endif %}
+		{% if page.next %}
+		<a class="next" href="{{ page.next.url }}" rel="bookmark">{{ page.next.title | truncatewords:5 }}&nbsp;&raquo;</a>
+		{% endif %}
+	</nav>
+	<div class="comment">
+		{% if site.disqus.config %}
+		<div id="disqus_thread"></div>
+		{% else %}
+		{% if site.duoshuo.config %}
+		<div class="ds-thread" data-thread-key="{{ page.title }}"></div>
+		{% endif %}
+		{% endif %}
+	</div>
 </div>
+
+<div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;
+	opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
+	<input type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px" placeholder="article title > date tag" >
+
+	<div style="position: fixed; top: 16px; right: 16px;">
+		<img src="/search/img/cb-close.png"  id="cb-close-btn"/>
+	</div>                                                                                                                                     
+</div>
+
+<div style="position: fixed; right: 16px; bottom: 20px;">
+	<img src="/search/img/cb-search.png"  id="cb-search-btn"  title="双击ctrl试一下"/>
+</div>
+
+<link rel="stylesheet" href="{{ "/search/css/cb-search.css" | prepend: site.baseurl }}">
+<script src="{{ "/search/js/bootstrap3-typeahead.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/search/js/cb-search.js" | prepend: site.baseurl }}"></script>

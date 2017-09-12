@@ -33,11 +33,11 @@ The network architecture is as follows:
 
 **Post-processing of tumor heatmaps to compute slide-based and lesion-based probabilities**
 
--Slide-based Classification:the post-processing takes as input a heatmap for each WSI and produces as out-put a single probability of tumor for the entire WS.Given a whole slide image (Fig. 3 (a)) and a deep learning based patch classification model, we generate the corresponding tumor re-gion heatmap (Fig. 3 (b))
+- Slide-based Classification:the post-processing takes as input a heatmap for each WSI and produces as out-put a single probability of tumor for the entire WS.Given a whole slide image (Fig. 3 (a)) and a deep learning based patch classification model, we generate the corresponding tumor re-gion heatmap (Fig. 3 (b))
 
 ![](/assets/paper_notes/DLIMBC/image4.jpg)
 
--Lesion-based Detection Post-Processing:identify all cancer lesions within each WSI with few false positives,trained two deep model,model(D-I) using initial training dateset,model(D-II) with a training set that is enriched for tumor-adjacent negative regions.
+- Lesion-based Detection Post-Processing:identify all cancer lesions within each WSI with few false positives,trained two deep model,model(D-I) using initial training dateset,model(D-II) with a training set that is enriched for tumor-adjacent negative regions.
 
 **Experiments Result**
 
@@ -45,7 +45,7 @@ The network architecture is as follows:
 
 ![](/assets/paper_notes/DLIMBC/image4.jpg)
 
--Lesion-based Evaluation:free-response receiver operating characteristic(FROC) curve were used.The FROC curve is defined as the plot of sensitivity versus the average number of false-positives per image.As shown in Fig.5.
+- Lesion-based Evaluation:free-response receiver operating characteristic(FROC) curve were used.The FROC curve is defined as the plot of sensitivity versus the average number of false-positives per image.As shown in Fig.5.
 
 ![](/assets/paper_notes/DLIMBC/image5.jpg)
 

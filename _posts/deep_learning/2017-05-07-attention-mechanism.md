@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Attention in deep learning
+title: Attention in Deep Learning
 date: 2017-05-07
 ---
 

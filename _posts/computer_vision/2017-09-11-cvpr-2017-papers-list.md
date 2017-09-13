@@ -63,8 +63,8 @@ http://www.cvpapers.com/cvpr2017.html
 - Christian Ledig, Lucas Theis, Ferenc HuszÃƒÂ¡r, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi
 
 
-### 3D Vision 1 (三维视觉) 
-#### Spotlight 1-1B  （关注的焦点 1-1 B）
+### 3D Vision 1
+#### Spotlight 1-1B
 
 
 **Context-Aware Captions From Context-Agnostic Supervision**
@@ -121,7 +121,7 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 ### Low- & Mid-Level Vision 
-#### Spotlight 1-1C  （关注的焦点 1-1 C）
+#### Spotlight 1-1C 
 
 
 **Designing Effective Inter-Pixel Information Flow for Natural Image Matting**
@@ -441,7 +441,7 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-#### Object Recognition & Scene Understanding ( 目标检测、场景理解)
+#### Object Recognition & Scene Understanding
 
 
 
@@ -503,9 +503,7 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-#### Video Analytics  （视频分析）
-
-
+#### Video Analytics 
 
 **Temporal Convolutional Networks for Action Segmentation and Detection**
 
@@ -538,10 +536,6 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 ### Object Recognition & Scene Understanding - Computer Vision & Language
-
-
-
-#### ( 目标检测、场景理解—— 计算机视觉 & 语言)
 
 **Discriminative Bimodal Networks for Visual Localization and Detection With Natural Language Queries**
 
@@ -660,10 +654,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### Image Motion & Tracking; Video Analysis （图像运动与追踪；视频分析） 
+### Image Motion & Tracking; Video Analysis 
 #### Spotlight 1-2C
-
-
 
 **Template Matching With Deformable Diversity Similarity**
 
@@ -837,9 +829,7 @@ http://www.cvpapers.com/cvpr2017.html
 - Gaochang Wu, Mandan Zhao, Liangyong Wang, Qionghai Dai, Tianyou Chai, Yebin Liu
 
 
-
-#### Image Motion & Tracking  （目标追踪）
-
+#### Image Motion & Tracking 
 
 
 **FlowNet 2.0: Evolution of Optical Flow Estimation With Deep Networks**

@@ -7,9 +7,10 @@ date: 2017-06-08
 
 # Instance Segmentation+MSRA
 
-**Paper Link:[Instace-sensitive Fully Convolutional Networks.ECCV 2016](https://arxiv.org/abs/1603.08678)**
-**Paper Link:[R-FCN:Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409)**
-**Paper Link:[Fully Convolutional Instance-aware Semantic Segmentation](https://arxiv.org/abs/1611.07709)**
+- Instace-sensitive Fully Convolutional Networks.ECCV 2016[[Paper]](https://arxiv.org/abs/1603.08678)
+- R-FCN:Object Detection via Region-based Fully Convolutional Networks[[Paper]](https://arxiv.org/abs/1605.06409)
+- Instance-aware semantic segmentation via multi-task network cascades[[Paper]](https://arxiv.org/abs/1512.04412)
+- Fully Convolutional Instance-aware Semantic Segmentation[[Paper]](https://arxiv.org/abs/1611.07709)
 
 # InstaceFCN[Instace-sensitive Fully Convolutional Networks.ECCV 2016]
 

@@ -63,7 +63,8 @@ http://www.cvpapers.com/cvpr2017.html
 - Christian Ledig, Lucas Theis, Ferenc HuszÃƒÂ¡r, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi
 
 
-### 3D Vision 1 (三维视觉) #### Spotlight 1-1B  （关注的焦点 1-1 B）
+### 3D Vision 1 (三维视觉) 
+#### Spotlight 1-1B  （关注的焦点 1-1 B）
 
 
 **Context-Aware Captions From Context-Agnostic Supervision**
@@ -119,7 +120,8 @@ http://www.cvpapers.com/cvpr2017.html
 - Tommaso Cavallari, [Stuart Golodetz](http://research.gxstudios.net/), Nicholas A. Lord, Julien Valentin, Luigi Di Stefano, [Philip H. S. Torr](http://www.robots.ox.ac.uk/~phst/)
 
 
-### Low- & Mid-Level Vision #### Spotlight 1-1C  （关注的焦点 1-1 C）
+### Low- & Mid-Level Vision 
+#### Spotlight 1-1C  （关注的焦点 1-1 C）
 
 
 **Designing Effective Inter-Pixel Information Flow for Natural Image Matting**
@@ -176,7 +178,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### Poster 1-1 #### 3D Computer Vision
+### Poster 1-1 
+#### 3D Computer Vision
 
 
 
@@ -538,7 +541,7 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-**#### ( 目标检测、场景理解—— 计算机视觉 & 语言)**
+#### ( 目标检测、场景理解—— 计算机视觉 & 语言)
 
 **Discriminative Bimodal Networks for Visual Localization and Detection With Natural Language Queries**
 
@@ -596,7 +599,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### Analyzing Humans 1 #### Spotlight 1-2B
+### Analyzing Humans 1 
+#### Spotlight 1-2B
 
 
 
@@ -656,7 +660,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### Image Motion & Tracking; Video Analysis （图像运动与追踪；视频分析） #### Spotlight 1-2C
+### Image Motion & Tracking; Video Analysis （图像运动与追踪；视频分析） 
+#### Spotlight 1-2C
 
 
 
@@ -716,7 +721,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### Poster 1-2 #### 3D Computer Vision
+### Poster 1-2 
+#### 3D Computer Vision
 
 
 
@@ -1074,7 +1080,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### Machine Learning 2 #### Spotlight 2-1A
+### Machine Learning 2 
+#### Spotlight 2-1A
 
 
 
@@ -1134,7 +1141,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### Computational Photography #### Spotlight 2-1B
+### Computational Photography 
+#### Spotlight 2-1B
 
 
 
@@ -1194,7 +1202,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### 3D Vision 2 #### Spotlight 2-1C
+### 3D Vision 2 
+#### Spotlight 2-1C
 
 
 
@@ -1254,7 +1263,8 @@ http://www.cvpapers.com/cvpr2017.html
 
 
 
-### Poster 2-1 #### 3D Computer Vision
+### Poster 2-1 
+#### 3D Computer Vision
 
 
 
@@ -1625,7 +1635,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Object Recognition & Scene Understanding 1 #### Spotlight 2-2A
+### Object Recognition & Scene Understanding 1 
+#### Spotlight 2-2A
 
 
 
@@ -1685,7 +1696,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Analyzing Humans 2 #### Spotlight 2-2B
+### Analyzing Humans 2 
+#### Spotlight 2-2B
 
 
 
@@ -1745,7 +1757,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Applications #### Spotlight 2-2C
+### Applications 
+#### Spotlight 2-2C
 
 
 
@@ -1801,7 +1814,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Poster 2-2 #### 3D Computer Vision
+### Poster 2-2 
+#### 3D Computer Vision
 
 
 
@@ -2169,7 +2183,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Machine Learning 3 #### Spotlight 3-1A
+### Machine Learning 3 
+#### Spotlight 3-1A
 
 
 
@@ -2229,7 +2244,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Object Recognition & Scene Understanding 2 #### Spotlight 3-1B
+### Object Recognition & Scene Understanding 2
+#### Spotlight 3-1B
 
 
 
@@ -2289,7 +2305,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Poster 3-1 #### 3D Computer Vision
+### Poster 3-1 
+#### 3D Computer Vision
 
 
 
@@ -2713,7 +2730,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Machine Learning 4 #### Spotlight 4-1A
+### Machine Learning 4 
+#### Spotlight 4-1A
 
 
 
@@ -2773,7 +2791,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Analyzing Humans with 3D Vision #### Spotlight 4-1B
+### Analyzing Humans with 3D Vision
+#### Spotlight 4-1B
 
 
 
@@ -2833,7 +2852,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Poster 4-1 #### 3D Computer Vision
+### Poster 4-1
+#### 3D Computer Vision
 
 
 
@@ -3251,7 +3271,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Object Recognition & Scene Understanding 3 #### Spotlight 4-2A
+### Object Recognition & Scene Understanding 3
+#### Spotlight 4-2A
 
 
 
@@ -3311,7 +3332,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Machine Learning for 3D Vision #### Spotlight 4-2B
+### Machine Learning for 3D Vision
+#### Spotlight 4-2B
 
 
 
@@ -3371,7 +3393,8 @@ undary-Aware Neural Encoder for Video Captioning**
 
 
 
-### Poster 4-2 #### 3D Computer Vision
+### Poster 4-2
+#### 3D Computer Vision
 
 
 

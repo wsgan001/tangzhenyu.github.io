@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title: Understanding Convolution for Semantic Segmentation
-date: 2017-09-11
+date: 2017-08-11
 ---
 
 # Understanding Convolution for Semantic Segmentation”

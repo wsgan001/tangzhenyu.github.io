@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title: Attention Correctness in Neural Image Captioning
-date: 2017-09-11
+date: 2017-08-12
 ---
 
 # Attention Correctness in Neural Image Captioning

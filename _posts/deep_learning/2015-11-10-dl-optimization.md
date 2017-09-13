@@ -1,7 +1,7 @@
 ---
 layout: post
 category: deep_learning
-title: Deep Learning Optimization 
+title: Optimization in Deep Learning
 date: 2015-11-10
 ---
 

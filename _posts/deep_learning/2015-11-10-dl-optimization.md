@@ -1,14 +1,21 @@
 ---
 layout: post
 category: deep_learning
-title: Deep Learning Tricks
-date: 2015-01-10
+title: Deep Learning Optimization 
+date: 2015-11-10
 ---
 
 # Papers
 
 - SGDR:STOCHASTIC GRADIENT DESCENT WITH WARM RESTARTS[[Paper]](https://arxiv.org/pdf/1608.03983.pdf)[[project]](https://github.com/loshchil/SGDR)
 - Practical recommendations for gradient-based training of deep architectures[[Paper]](http://arxiv.org/abs/1206.5533)
+- Cyclical learning rates for training neural networks[[Paper]](http://arxiv.org/abs/1506.01186)
+- Adadelta: An adaptive learning rate method [[Paper]](http://arxiv.org/abs/1212.5701)
+- Stochastic subgradient methods with linear convergence for polyhedral convex optimization. [[Paper]](http://arxiv.org/abs/1510.01444)
+- Restart procedures for the conjugate gradient method[[Paper]]()
+- Adaptive restart for accelerated gradient schemes.[[Paper]](http://arxiv.org/abs/1204.3982)
+- No more pesky learning rate guessing games. [[Paper]](http://arxiv.org/abs/1506.01186)
+- SNAPSHOT ENSEMBLES: TRAIN 1, GET M FOR FREE [[Paper]](http://arxiv.org/abs/1704.00109)
 
 # Blogs
 

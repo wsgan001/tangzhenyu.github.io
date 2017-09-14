@@ -53,6 +53,8 @@ Advantages compare to DeepMask:This not only reduces the computational cost of t
 
 ## Instance-aware semantic segmentation via multi-task network cascades
 
+Include three sub-networks,instance
+
 ***
 
 ## Fully Convolutional Instance-aware Semantic Segmentation

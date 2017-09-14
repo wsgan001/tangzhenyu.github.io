@@ -50,12 +50,14 @@ Advantages compare to DeepMask:This not only reduces the computational cost of t
 
 ## Fully Convolutional Instance-aware Semantic Segmentation
 
-To achieve certain translation-variant property.
+This paper is the first one to do end-to-end instance-aware semantic segmentation.
+
+**To achieve certain translation-variant property**
 - An FCN is applied on the whole image to generate intermediate and shared feature maps;
 - From the shared feature maps, a pooling layer warps each region of interest (ROI) into fixed-size per-ROI feature maps
 - One or more fully-connected (fc) layer(s) in the last network convert the per-ROI feature maps to per-ROI masks
 
-Above method have drawbacks:
+**Above method have drawbacks**
 - The ROI pooling step losses spatial details due to feature warping and resizing
 - The fc layers over-parametrize the task, without using regularization of local weight sharing.
 - The per-ROI network computation in the last step is not shared among ROIs,it is therefore slow for a large number of ROIs.
@@ -64,9 +66,7 @@ For [3],the approach takes 1:4 seconds per image, where more than 80% of the tim
 
 For [1],The object segmentation and detection sub-tasks are separated and the solution is not end-to-end.
 
-This paper is the first one to do end-to-end instance-aware semantic segmentation.
-
-Method in this paper have some advantages:
+**Method in this paper have some advantages:**
 - The underlying convolutional representation and the score maps are fully shared for the object segmentation and detection sub-tasks, via a novel joint formulation with no extra parameters.
 - It operates on box proposals instead of sliding windows, enjoying the recent advances in object detection.
 

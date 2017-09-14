@@ -14,15 +14,18 @@ date: 2017-06-08
 
 ## Multimodal Word Distributions
 
+![](/assets/paper_notes/acl2017/image1.jpg)
 
 ## Topically Driven Neural Language Model 
+
+![](/assets/paper_notes/acl2017/image2.jpg)
 
 ## Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access
 
 ## Learning to Skim Text
 
-## From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood
+![](/assets/paper_notes/acl2017/image3.jpg)
 
-![](/assets/paper_notes/instanceSegMSRA/image1.jpg)
+## From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood
 
 **End!**

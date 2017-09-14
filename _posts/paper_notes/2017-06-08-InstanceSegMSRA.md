@@ -81,5 +81,4 @@ For [1],The object segmentation and detection sub-tasks are separated and the so
 
 **5.Joint Mask Prediction and Classification**
 
-
 **End!**

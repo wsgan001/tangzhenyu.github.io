@@ -44,11 +44,11 @@ In contrast to DeepMask’s [8] mechanism which is based on a "sliding fc layer"
 Advantages compare to DeepMask:This not only reduces the computational cost of the mask prediction layers, but more importantly, reduces the number of parameters required for mask regression,
 
 
-##R-FCN:Object Detection via Region-based Fully Convolutional Networks
+## R-FCN:Object Detection via Region-based Fully Convolutional Networks
 
-##Instance-aware semantic segmentation via multi-task network cascades
+## Instance-aware semantic segmentation via multi-task network cascades
 
-##Fully Convolutional Instance-aware Semantic Segmentation
+## Fully Convolutional Instance-aware Semantic Segmentation
 
 To achieve certain translation-variant property.
 - An FCN is applied on the whole image to generate intermediate and shared feature maps;
@@ -70,10 +70,9 @@ Method in this paper have some advantages:
 - The underlying convolutional representation and the score maps are fully shared for the object segmentation and detection sub-tasks, via a novel joint formulation with no extra parameters.
 - It operates on box proposals instead of sliding windows, enjoying the recent advances in object detection.
 
-###Positionsensitive Score Map Parameterization
+### Positionsensitive Score Map Parameterization
 
-###Joint Mask Prediction and Classification
+### Joint Mask Prediction and Classification
 
-###
 
 **End!**

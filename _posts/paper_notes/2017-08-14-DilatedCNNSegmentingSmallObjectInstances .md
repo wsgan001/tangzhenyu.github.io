@@ -10,7 +10,7 @@ date: 2017-08-14
 
 This paper proposed a system named Dual Image Segmentation(DIS) to solve semantic segmentation tasks,which utilize training samples of per-pixel labelmaps and some training samples of image-level tags,and get preferable results.
 
-![](/assets/paper_notes/DDualLearing_SS/image1.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image1.png)
 
 **Feature of the satellite imagery:**
 
@@ -40,7 +40,7 @@ Solve this problem by simply going against the tide—decreasingly dilated convo
 
 Overview of the proposed network architecture 
 
-![](/assets/paper_notes/DDualLearing_SS/image2.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image2.png)
 
 Schematic of the proposed segmentation model:
 -front-end module, local feature extraction (LFE) module and head module 
@@ -51,7 +51,7 @@ Schematic of the proposed segmentation model:
 
 **LFE module**
 
-![](/assets/paper_notes/DDualLearing_SS/image3.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image3.png)
 
 Problem:
 - local structure cannot be extracted in higher layer,spatial consistency between neighboring units becomes weak
@@ -78,22 +78,22 @@ Post-processing:
 
 #### Experiments
 $$Toyota City Dataset:**
-![](/assets/paper_notes/DDualLearing_SS/image4.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image4.png)
 
 **Relative improvements:**
-![](/assets/paper_notes/DDualLearing_SS/image5.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image5.png)
 
 **Output probability maps for different models:**
-![](/assets/paper_notes/DDualLearing_SS/image6.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image6.png)
 
 **Result of Massachusetts Buildings Dataset:**
-![](/assets/paper_notes/DDualLearing_SS/image7.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image7.png)
 
 **Result of Vaihingen Dataset:**
-![](/assets/paper_notes/DDualLearing_SS/image8.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image8.png)
 
 **output probability maps for different resolution of Massachusetts Buildings Dataset:**
-![](/assets/paper_notes/DDualLearing_SS/image9.png)
+![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image9.png)
 
 [26] P. Hu and D. Ramanan. Finding Tiny Faces. arXiv preprint arXiv:1612.04402, 2016.
 [27] W. Luo, Y. Li, R. Urtasun, and R. Zemel. Understanding the Effective Receptive Field in Deep Convolutional Neural Networks. NIPS, 2016.

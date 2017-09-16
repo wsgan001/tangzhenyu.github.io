@@ -17,9 +17,10 @@ Definition:
 - w:weak-mark just image label
 - f:full-mark,pixel level label
 
-$$I^w$$
+$$I^w$$ represents a weakly labeled image that only has tags $$T^w$$, but its labelmap $$L^w$$ is missing.An image that is fully annotated with both labelmap $$L^f$$ and tags $$T^f$$
+
 - Given an image with tags only, its labelmap can be inferred by leveraging the images and tags as constraints
 - DIS is able to clean tags that have noises.
 - DIS significantly reduces the number of perpixel annotations in training, while still achieves state-of-the-art performance
 
-![](/assets/paper_notes/DDualLearing_SS/image1.jpg)
+![](/assets/paper_notes/DDualLearing_SS/image1.png)

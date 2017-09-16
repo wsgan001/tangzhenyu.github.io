@@ -77,7 +77,7 @@ Post-processing:
 - mask proposals for individual object instances are acquired by simply thresholding the output probability map.
 
 #### Experiments
-$$Toyota City Dataset:**
+**Toyota City Dataset:**
 ![](/assets/paper_notes/DilatedCNNSegmentingSmallObjectInstances/image4.png)
 
 **Relative improvements:**

@@ -17,7 +17,7 @@ Definition:
 - w:weak-mark just image label
 - f:full-mark,pixel level label
 
-$I^w$
+$$I^w$$
 - Given an image with tags only, its labelmap can be inferred by leveraging the images and tags as constraints
 - DIS is able to clean tags that have noises.
 - DIS significantly reduces the number of perpixel annotations in training, while still achieves state-of-the-art performance

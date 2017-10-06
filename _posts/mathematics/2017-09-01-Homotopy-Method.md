@@ -1,6 +1,6 @@
 ---
 layout: post
-category: paper_notes
+category: mathematics
 title: Homotopy Method
 date: 2017-09-01
 ---

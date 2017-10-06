@@ -7,7 +7,7 @@ date: 2017-09-01
 
 ### Basic concept of homotopy
 
-Give two topological spaces X,Y,consider two continuous functions f and g which are the mapping between X and Y.If exist a continuous mapping H:X\*[0,1]->Y,satisfied:
+Give two topological spaces X,Y,consider two continuous functions f and g which are the mapping between X and Y. If exist a continuous mapping $$H:X\*[0,1]->Y$$,satisfied:
 
 ![](/assets/mathematics/homotopy_method/fig1.png)
 
@@ -21,14 +21,13 @@ Construction of H(x,s) and $$F_0(x)$$
 
 ![](/assets/mathematics/homotopy_method/fig3.png)
 
-We can say that $F_x(x)$ and $F(x)$ are homotopy,the homotopy path are H(x,s).
+We can say that $$F_0(x)$$ and $$F(x)$$ are homotopy,the homotopy path are H(x,s).
 
 The algorithm of applied homotopy method on Newton's method is as follows:
 
 ![](/assets/mathematics/homotopy_method/fig4.png)
 
-Assume f(x)=arctan(x),to find the root of the equation f(x) = 0.The code is as follows:
-
+Assume $$f(x)=arctan(x)$$,to find the root of the equation f(x) = 0.The code is as follows:
 
 
 1) Hxs.m(H(x,s))

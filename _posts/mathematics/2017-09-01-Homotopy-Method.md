@@ -17,7 +17,7 @@ Then could say f and g are homotopy in space Y,function H is a path connected f 
 
 ![](/assets/mathematics/homotopy_method/fig2.png)
 
-Construction of H(x,s) and $F_0(x)$
+Construction of H(x,s) and $$F_0(x)$$
 
 ![](/assets/mathematics/homotopy_method/fig3.png)
 

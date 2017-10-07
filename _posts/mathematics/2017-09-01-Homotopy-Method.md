@@ -7,7 +7,7 @@ date: 2017-09-01
 
 ### Basic concept of homotopy
 
-Give two topological spaces X,Y,consider two continuous functions f and g which are the mapping between X and Y. If exist a continuous mapping $$H:X\*[0,1]->Y$$,satisfied:
+Give two topological spaces X,Y,consider two continuous functions f and g which are the mapping between X and Y. If exist a continuous mapping $$H:X * [0,1]->Y$$,satisfied:
 
 ![](/assets/mathematics/homotopy_method/fig1.png)
 

@@ -2,7 +2,7 @@
 layout: post
 category: machine_learning
 title: Topic Model
-date: 2015-08-27
+date: 2015-04-11
 ---
 
 **Care and Feeding of Topic Models: Problems, Diagnostics, and Improvements**

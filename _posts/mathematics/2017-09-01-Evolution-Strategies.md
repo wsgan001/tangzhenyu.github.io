@@ -9,7 +9,7 @@ date: 2017-09-01
 
 Consider the unconstrained optimization in continuous domain
 
-![](/assets/mathematics/es/fig1.png)
+![](/assets/mathematics/es/equ1.png)
 
 where f(x) is called the objective function, whose analytical expression is unknown.The gradient information is unavailable, and the only information accessible is the objective value for any given point. The objective function behaves as a black box, hence above equation is termed black box optimization problems.The objective of continuous black box optimization is to find a solution $$x \in R^n$$ such that its objective value is as good as possible
 

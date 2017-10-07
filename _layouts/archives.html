@@ -2,12 +2,6 @@
 <html>
     <head>
 		
-		<!-- full text search in site-->
-		<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
-		<script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
-		<script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-		<meta name="google-site-verification" content="k0AksBQYy3n1RA3qWItqPS4EWkOMx8cIs72fLSb9yaE" />
-
         <meta charset="utf-8">
         <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
         <!-- meta -->
@@ -170,22 +164,6 @@
 
         <!-- mathjax -->
         <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-        <!-- Search in CSE home -->
-        <script>
-        (function() {
-            var cx = '005172843397642166538:srrzpepsgtc';
-            var gcse = document.createElement('script');
-            gcse.type = 'text/javascript';
-            gcse.async = true;
-            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                '//cse.google.com/cse.js?cx=' + cx;
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(gcse, s);
-        })();
-        </script>
-        <gcse:search></gcse:search>
-
 
     </body>
 </html>

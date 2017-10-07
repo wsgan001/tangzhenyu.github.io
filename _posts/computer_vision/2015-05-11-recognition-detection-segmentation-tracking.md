@@ -2,7 +2,7 @@
 layout: post
 category: computer_vision
 title: Recognition, Detection, Segmentation and Tracking
-date: 2015-10-09
+date: 2015-05-11
 ---
 
 # Classification / Recognition

@@ -2,7 +2,7 @@
 layout: post
 category: distribued_system
 title: Distribued System Resources
-date: 2015-12-12
+date: 2015-02-01
 ---
 
 # Courses

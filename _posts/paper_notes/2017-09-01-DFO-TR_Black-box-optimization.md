@@ -14,8 +14,6 @@ This paper mainly
 - Explore practical scalability of the methods with respect to the dimension of the search space and nonlinearity of the function.
 - Apply a variant of a model-based trust region derivative free method, called DFO-TR, (Conn et al.,2009) to directly maximize the AUC function.
 
-
-
 **Black-box optimization**
 - Bayesian Optimization(BO):BO methods always contain a component that aims at the exploration of the space
 - Derivative Free Optimization(DFO):DFO methods are content with a local optimum.DFO methods tend to escape shallow local minima and are quite well suited for problems with a few well defined local basins.
@@ -32,6 +30,8 @@ Using gradient-based optimization to optimize AUC value directly is not feasible
 DFO-TR framework,as outlined in Algorithm 1.
 
 ![](/assets/paper_notes/DFO-TR/alg1.jpg)
+
+#### Algorithmic Framework of BO
 
 Bayesian optimization framework, as outlined in Algorithm 2.
 
@@ -73,7 +73,7 @@ Compare DFO-TR with SMAC (Hutter et al., 2011), SPEARMINT (Snoek et al., 2012), 
 #### Optimizing Smooth, NonConvex Benchmark Functions
 - Compare the precision $$\Delta f_{opt}$$ with the global optimal value, which is known
 
-![](/assets/paper_notes/DFO-TR/table123.png)
+![](/assets/paper_notes/DFO-TR/table_123.png)
 
 #### Optimizing AUC Function
 compare the performance of DFOTR and the three Bayesian optimization algorithms, TPE, SMAC, and SPEARMINT, on the task of optimizing AUC of a linear classifier, defined by w.Table 5 summarizes the results.

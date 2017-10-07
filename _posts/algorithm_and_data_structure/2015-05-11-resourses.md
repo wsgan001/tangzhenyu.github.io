@@ -2,7 +2,7 @@
 layout: post
 category: algorithm_and_data_structure
 title: Algorithm and Data Structure Resources
-date: 2015-07-01
+date: 2015-05-11
 ---
 
 # Courses

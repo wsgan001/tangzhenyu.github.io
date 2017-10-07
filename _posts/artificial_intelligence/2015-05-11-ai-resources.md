@@ -2,7 +2,7 @@
 layout: post
 category: artificial_intelligence
 title: Artificial Intelligence Resources
-date: 2015-10-01
+date: 2015-05-11
 ---
 
 # Courses

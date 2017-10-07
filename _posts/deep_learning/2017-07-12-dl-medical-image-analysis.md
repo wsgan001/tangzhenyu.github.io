@@ -2,7 +2,7 @@
 layout: post
 category: deep_learning
 title: Deep Learning in Medical Image Analysis
-date: 2017-09-12
+date: 2017-07-12
 ---
 
 ## Papers

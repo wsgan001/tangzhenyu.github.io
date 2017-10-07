@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title: Black-Box Optimization in Machine Learning with Trust Region Based Derivative Free Algorithm
-date: 2017-09-12
+date: 2017-09-01
 ---
 
 ### Black-Box Optimization in Machine Learning with Trust Region Based Derivative Free Algorithm

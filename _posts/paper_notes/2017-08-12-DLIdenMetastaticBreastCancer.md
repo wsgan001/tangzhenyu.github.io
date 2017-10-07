@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title: Deep Learning for Identifying Metastatic Breast Cancer
-date: 2017-09-12
+date: 2017-08-12
 ---
 
 # Deep Learning for Identifying Metastatic Breast Cancer

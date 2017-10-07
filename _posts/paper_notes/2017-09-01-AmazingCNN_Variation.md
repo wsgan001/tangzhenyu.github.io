@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title: Amazing Variation Architecture of CNN
-date: 2017-09-11
+date: 2017-09-01
 ---
 
 ### Amazing CNN Architecture

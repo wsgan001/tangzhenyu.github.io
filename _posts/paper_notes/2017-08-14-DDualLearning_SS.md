@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title: Deep Dual Learning for Semantic Image Segmentation 
-date: 2017-09-14
+date: 2017-08-14
 ---
 # Semantic Segmentation
 

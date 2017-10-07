@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title: The family of Deep Residual Neural Networks
-date: 2017-09-01
+date: 2017-08-01
 ---
 ### Paper List
 

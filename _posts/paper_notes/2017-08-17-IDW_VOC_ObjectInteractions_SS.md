@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title:  Learning Object Interactions and Descriptions for Semantic Image Segmentation
-date: 2017-09-07
+date: 2017-08-17
 ---
 ## Segmentation
 ###  Learning Object Interactions and Descriptions for Semantic Image Segmentation

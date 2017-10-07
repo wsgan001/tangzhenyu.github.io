@@ -2,7 +2,7 @@
 layout: post
 category: paper_notes
 title: Effective Use of Dilated Convolutions for Segmenting Small Object Instances in Remote Sensing Imagery
-date: 2017-09-15
+date: 2017-08-15
 ---
 # Semantic Segmentation
 

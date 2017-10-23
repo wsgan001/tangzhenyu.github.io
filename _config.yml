@@ -124,7 +124,7 @@ publications:
       place: 
     message: Publication
   - item:
-      - title: Something interesting on RNN, Energy-based Model & Memory
+    - title: Something interesting on RNN,Energy-based Model & Memory
       year: 2017
       place: 
     - title: Some Improvements on Generative Adversarial Models

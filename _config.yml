@@ -112,18 +112,24 @@ publications:
   - item:
     - title: Nonlinear Phenomena of the Langmuir Waves in a Plasm
       year: 2017
-      place: CNLS
+      place: 
     - title: On a Higher-Order Nonlinear Schrodinger Equation for the Secured Optical Communication
       year: 2017
-      place: HNLS
+      place: 
     - title: Nonlinear Phenomena of the Langmuir Waves in a Plasm
       year: 2017
-      place: CNLS
+      place: 
+    - title: Denoising Mean-field Method for Compressed Sensing
+      year: 2017
+      place: 
     message: Publication
   - item:
-    - title: Nonlinear Phenomena of the Langmuir Waves in a Plasm
+      - title: Recurrent Neural Network
       year: 2017
-      place: CNLS
+      place: 
+      - title: Generative Adversarial Networks
+      year: 2017
+      place: 
     message: Slides
 
 googleAnaly:

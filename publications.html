@@ -14,7 +14,7 @@ keywords: Links
 	<ul>
                 {% for link in i.item %}
 				<!--<li><a href="{{ link.title }}" target="_blank">{{ link.text }}</a></li>-->
-				<li><strong><a target="_blank" rel="noopener noreferrer">"{{ link.title }}"</a></strong></em>{{link.place}} </em> <strong>{{link.year}}</strong></li>
+				<li><strong><a target="_blank" rel="noopener noreferrer" href="{{link.link}}">"{{ link.title }}"</a></strong></em>{{link.place}} </em> <strong>{{link.year}}</strong></li>
                 {% endfor %}
         </ul>
         {% endfor %}

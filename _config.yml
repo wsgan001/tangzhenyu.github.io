@@ -124,10 +124,10 @@ publications:
       place: 
     message: Publication
   - item:
-      - title: Recurrent Neural Network
+      - title: Something interesting on RNN, Energy-based Model & Memory
       year: 2017
       place: 
-      - title: Generative Adversarial Networks
+    - title: Some Improvements on Generative Adversarial Models
       year: 2017
       place: 
     message: Slides
